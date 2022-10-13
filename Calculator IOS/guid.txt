@@ -1,0 +1,5 @@
+****************************************** App info ******************************************
+Created by : Elman Najafi
+Date : 2020
+Language : python 3.6
+Libraries : Tkinter
